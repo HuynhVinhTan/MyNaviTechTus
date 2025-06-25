@@ -1,0 +1,28 @@
+/home/vupfiev/Chapter6/bin/Debug/net8.0/Chapter6
+/home/vupfiev/Chapter6/bin/Debug/net8.0/Chapter6.deps.json
+/home/vupfiev/Chapter6/bin/Debug/net8.0/Chapter6.runtimeconfig.json
+/home/vupfiev/Chapter6/bin/Debug/net8.0/Chapter6.dll
+/home/vupfiev/Chapter6/bin/Debug/net8.0/Chapter6.pdb
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.GeneratedMSBuildEditorConfig.editorconfig
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.AssemblyInfoInputs.cache
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.AssemblyInfo.cs
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.csproj.CoreCompileInputs.cache
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.dll
+/home/vupfiev/Chapter6/obj/Debug/net8.0/refint/Chapter6.dll
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.pdb
+/home/vupfiev/Chapter6/obj/Debug/net8.0/Chapter6.genruntimeconfig.cache
+/home/vupfiev/Chapter6/obj/Debug/net8.0/ref/Chapter6.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\bin\Debug\net8.0\Chapter6.exe
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\bin\Debug\net8.0\Chapter6.deps.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\bin\Debug\net8.0\Chapter6.runtimeconfig.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\bin\Debug\net8.0\Chapter6.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\bin\Debug\net8.0\Chapter6.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.AssemblyInfoInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.AssemblyInfo.cs
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\refint\Chapter6.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\Chapter6.genruntimeconfig.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Vu\obj\Debug\net8.0\ref\Chapter6.dll

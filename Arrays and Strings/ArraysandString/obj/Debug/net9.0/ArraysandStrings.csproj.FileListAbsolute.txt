@@ -1,0 +1,14 @@
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\bin\Debug\net9.0\ArraysandStrings.exe
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\bin\Debug\net9.0\ArraysandStrings.deps.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\bin\Debug\net9.0\ArraysandStrings.runtimeconfig.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\bin\Debug\net9.0\ArraysandStrings.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\bin\Debug\net9.0\ArraysandStrings.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.AssemblyInfoInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.AssemblyInfo.cs
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\refint\ArraysandStrings.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ArraysandStrings.genruntimeconfig.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Dong\ArraysandString\obj\Debug\net9.0\ref\ArraysandStrings.dll

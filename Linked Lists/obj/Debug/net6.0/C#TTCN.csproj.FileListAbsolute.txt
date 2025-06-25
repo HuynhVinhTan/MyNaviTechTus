@@ -1,0 +1,14 @@
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\bin\Debug\net6.0\C#TTCN.exe
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\bin\Debug\net6.0\C#TTCN.deps.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\bin\Debug\net6.0\C#TTCN.runtimeconfig.json
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\bin\Debug\net6.0\C#TTCN.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\bin\Debug\net6.0\C#TTCN.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.AssemblyInfoInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.AssemblyInfo.cs
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\refint\C#TTCN.dll
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.pdb
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\C#TTCN.genruntimeconfig.cache
+C:\Users\ASUS-PRO\OneDrive - The University of Technology\Desktop\TTCN\Bao Khanh\obj\Debug\net6.0\ref\C#TTCN.dll

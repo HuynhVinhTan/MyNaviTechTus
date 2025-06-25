@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nCaExS8lp0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS-PRO\\OneDrive - The University of Technology\\Desktop\\TTCN\\Tan\\C#TTCN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS-PRO\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS-PRO\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS-PRO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\ASUS-PRO\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\bin\Debug\net6.0\MyProject.exe
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\bin\Debug\net6.0\MyProject.deps.json
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\bin\Debug\net6.0\MyProject.runtimeconfig.json
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\bin\Debug\net6.0\MyProject.dll
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\bin\Debug\net6.0\MyProject.pdb
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.AssemblyInfo.cs
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.dll
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\refint\MyProject.dll
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.pdb
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\MyProject.genruntimeconfig.cache
+C:\Users\HP\OneDrive - The University of Technology\Documents\KienTap\obj\Debug\net6.0\ref\MyProject.dll
